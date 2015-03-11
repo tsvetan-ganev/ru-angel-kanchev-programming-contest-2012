@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asymmetric", "01. Asymmetric\Asymmetric.csproj", "{FB11B6A3-4D6E-4578-B6AC-6B5BF7B3F465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "02. Password\Password.csproj", "{1265C9EE-C707-46C1-9052-35556FFBBC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digits", "03. Digits\Digits.csproj", "{D755FB26-CC91-477C-B3B4-CD7696A97347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orienteering", "04. Orienteering\Orienteering.csproj", "{621604E0-241A-4C6A-9942-0684FA4C8EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB11B6A3-4D6E-4578-B6AC-6B5BF7B3F465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB11B6A3-4D6E-4578-B6AC-6B5BF7B3F465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB11B6A3-4D6E-4578-B6AC-6B5BF7B3F465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB11B6A3-4D6E-4578-B6AC-6B5BF7B3F465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1265C9EE-C707-46C1-9052-35556FFBBC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1265C9EE-C707-46C1-9052-35556FFBBC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1265C9EE-C707-46C1-9052-35556FFBBC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1265C9EE-C707-46C1-9052-35556FFBBC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D755FB26-CC91-477C-B3B4-CD7696A97347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D755FB26-CC91-477C-B3B4-CD7696A97347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D755FB26-CC91-477C-B3B4-CD7696A97347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D755FB26-CC91-477C-B3B4-CD7696A97347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621604E0-241A-4C6A-9942-0684FA4C8EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621604E0-241A-4C6A-9942-0684FA4C8EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621604E0-241A-4C6A-9942-0684FA4C8EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621604E0-241A-4C6A-9942-0684FA4C8EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
